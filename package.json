@@ -1,6 +1,6 @@
 {
   "name": "zionscript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module with lot of features",
   "main": "index.js",
   "scripts": {
