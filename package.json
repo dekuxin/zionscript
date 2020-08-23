@@ -11,6 +11,13 @@
     "url": "git+https://github.com/dekuxin/zionscript.git"
   },
   "author": "Dekuxin",
+  "keywords": [
+    "zionscript",
+    "randomscript",
+    "randomint",
+    "randomstring",
+    "randomword"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dekuxin/zionscript/issues"
